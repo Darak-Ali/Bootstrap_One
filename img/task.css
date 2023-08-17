@@ -1,0 +1,35 @@
+.navbar-color-full{
+    background-color: #37517e;
+    opacity: 0.9;
+}
+.navbar-color{
+    background-color: #37517e; 
+}
+.color-gray{
+  color:   rgba(255, 255, 255, 0.6);
+}
+.heading-text{
+color: #37517e;   
+}
+
+.progress{
+    color: #37517e;
+}
+
+.bg-social{
+  background-color:   #e5ebf0;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('cta-bg.jpg');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
